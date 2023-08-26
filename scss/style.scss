@@ -24,7 +24,7 @@ a {
 
 .hero {
   @include utilities.set-bg(config.$primary-color);
-  height: 900px;
+  height: 800px;
 
   nav {
     display: flex;
